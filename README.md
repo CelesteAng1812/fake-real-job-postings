@@ -1,8 +1,6 @@
 # Real Fake Job Posting Classifier
 ![jobsearch](https://github.com/svftbuns/fake-real-job-postings/assets/122664885/53592b60-ef27-4ce7-aafa-9156e33bd744)
 
-<h2><strong>This is an ongoing project that is yet to be completed</strong></h2>
-
 ## About 
 Thought you secured a plum job? Well think again because it might be too good to be true. With the onslaught of fake job postings in the digital age, more people have fallen prey to these scams. As such we have identified the rise in fake job posting to be an increasing concern and decided to focus on this issue for our project. 
 
