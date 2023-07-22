@@ -24,11 +24,16 @@ Using the <a href="https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-job
   <li>DistilBERT</li>
 </ul>
 
-
-
+### Other models
+<ul>
+  <li>Random Forest Classifier</li>
+  <li>Logistic Regression</li>
+</ul>
 
 
 ## References
 - https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction?resource=download
 - https://towardsdatascience.com/nlp-spam-detection-in-sms-text-data-using-deep-learning-b8632db85cc8
 - https://youtu.be/s3LBdmZb00g
+- https://medium.com/mlearning-ai/fake-news-detection-using-logistic-regression-ml-project-tutorial-beginners-89b5c704d6ee
+- https://towardsdatascience.com/random-forest-ca80e56224c1
